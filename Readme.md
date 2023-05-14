@@ -75,4 +75,4 @@ MIT Licensed. See [LICENSE](https://github.com/ec2-detailer-terraform/tree/main/
 
 ## Author
  
- Module is maintained by [Uddhabendra Maity](linktr.ee/ub_maity)
+ Module is maintained by [Uddhabendra Maity](https://linktr.ee/ub_maity)
