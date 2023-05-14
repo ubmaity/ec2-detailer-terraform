@@ -1,0 +1,17 @@
+*.pem
+# Ignore .terraform directory
+.terraform
+
+# Ignore .tfstate files
+*.tfstate
+*.tfstate.backup
+
+# Ignore .terraform.lock.hcl file
+.terraform.lock.hcl
+
+# Ignore macOS Finder files
+.DS_Store
+
+terraform.tfstate
+terraform.tfstate.backup
+__pycache__
