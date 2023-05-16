@@ -1,2 +1,3 @@
 requests==2.30.0
 Flask==2.3.2
+APscheduler == 3.6.3
